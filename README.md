@@ -1,4 +1,4 @@
-# CO-no-Peace
+# Computer-Organisation
 
 About lab 11-12::
 
